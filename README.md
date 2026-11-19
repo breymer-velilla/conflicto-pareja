@@ -16,4 +16,5 @@
 La comida colombiana e italiana son deliciosas.
 
 ## Trabajo en equipo
-Trabajar en equipo ayuda a resolver problemas más rápido.
+
+Trabajar en equipo permite aprender de los demás y resolver problemas más rápido.
