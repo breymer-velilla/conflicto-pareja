@@ -14,3 +14,6 @@
 
 ## Nuestra opinion
 La comida colombiana e italiana son deliciosas.
+
+## Trabajo en equipo
+Trabajar en equipo permite aprender de los demás.
