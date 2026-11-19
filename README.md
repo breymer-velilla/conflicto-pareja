@@ -13,4 +13,4 @@
 - Aprendiz B: Flan.
 
 ## Nuestra opinion
-La comida italiana es la mejor.
+La comida colombiana e italiana son deliciosas.
