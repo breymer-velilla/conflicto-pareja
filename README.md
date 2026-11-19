@@ -1,4 +1,4 @@
-# Conflicto en pareja
+# Mis comidas favoritas - Aprendiz B
 
 Mis comidas favoritas:
 - Aprendiz A: Mi comida favorita es el arroz con pollo.
