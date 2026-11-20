@@ -17,4 +17,4 @@ La comida colombiana e italiana son deliciosas.
 
 ## Trabajo en equipo
 
-Trabajar en equipo permite aprender de los demás y resolver problemas más rápido.
+Creo que trabajar en equipo con Git nos ayuda a no pisarnos los cambios.”
