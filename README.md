@@ -17,4 +17,5 @@ La comida colombiana e italiana son deliciosas.
 
 ## Trabajo en equipo
 
-Creo que trabajar en equipo con Git nos ayuda a no pisarnos los cambios.”
+Creo que trabajar en equipo con Git nos ayuda a no pisarnos los cambios.
+Trabajar en equipo permite aprender más rápido y resolver problemas de manera más eficiente.
